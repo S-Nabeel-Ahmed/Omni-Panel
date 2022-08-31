@@ -20,8 +20,7 @@ export const routes: NavigationRouteObject[] = [
     name: 'DASHBOARD',
     element: <Home />,
   },
-  
-  
+
   {
     path: '/detail',
     name: 'DETAIL',
